@@ -2,8 +2,9 @@ LICENCE
 README.md
 pyproject.toml
 src/iaso-to-superset/__init__.py
-src/iaso-to-superset/example.py
+src/iaso-to-superset/iaso_etl.py
 src/iaso_to_superset.egg-info/PKG-INFO
 src/iaso_to_superset.egg-info/SOURCES.txt
 src/iaso_to_superset.egg-info/dependency_links.txt
+src/iaso_to_superset.egg-info/requires.txt
 src/iaso_to_superset.egg-info/top_level.txt
