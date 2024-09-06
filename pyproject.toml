@@ -1,0 +1,27 @@
+[project]
+name = "iaso_to_superset"
+version = "0.0.1"
+authors = [
+  { name="Martin Van Aken", email="martin@joyouscoding.com" },
+]
+description = "Integrating Iaso with Superset"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "requests",
+    "pandas",
+    "sqlalchemy",
+]
+
+[project.urls]
+Homepage = "https://github.com/blsq/iaso-to-superset"
+Issues = "https://github.com/blsq/iaso-to-superset/issues"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
