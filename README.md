@@ -12,7 +12,7 @@ Assuming you have a Iaso access
 
 - Note the ids of the forms you want to import
 - Get a token in iaso (https://iaso.bluesquare.org/api/apitoken/)
-- Get a Open Hexa workspace
+- Get an Open Hexa workspace
 - Create a notebook
 
 ### Code
